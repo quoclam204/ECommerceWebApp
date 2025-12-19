@@ -1,0 +1,12 @@
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\bin\Debug\net9.0\ApplicationCore.deps.json
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\bin\Debug\net9.0\ApplicationCore.dll
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\bin\Debug\net9.0\ApplicationCore.pdb
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ApplicationCore.AssemblyInfoInputs.cache
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ApplicationCore.AssemblyInfo.cs
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ApplicationCore.csproj.CoreCompileInputs.cache
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ApplicationCore.sourcelink.json
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ApplicationCore.dll
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\refint\ApplicationCore.dll
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ApplicationCore.pdb
+E:\Project\project-1\ECommerceWebApp\src\ApplicationCore\obj\Debug\net9.0\ref\ApplicationCore.dll

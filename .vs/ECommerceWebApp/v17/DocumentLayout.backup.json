@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Project\\project-1\\ECommerceWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD136C2-ECBC-4635-82B4-9274E89BC9E0}|ECommerceWebApp\\ECommerceWebApp.csproj|e:\\project\\project-1\\ecommercewebapp\\ecommercewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD136C2-ECBC-4635-82B4-9274E89BC9E0}|ECommerceWebApp\\ECommerceWebApp.csproj|solutionrelative:ecommercewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5706BEE-C3FB-E7BE-641A-413C1A61D716}|src\\Web\\Web.csproj|e:\\project\\project-1\\ecommercewebapp\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5706BEE-C3FB-E7BE-641A-413C1A61D716}|src\\Web\\Web.csproj|solutionrelative:src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,13 +48,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Project\\project-1\\ECommerceWebApp\\ECommerceWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceWebApp\\Program.cs",
-              "ToolTip": "E:\\Project\\project-1\\ECommerceWebApp\\ECommerceWebApp\\Program.cs",
-              "RelativeToolTip": "ECommerceWebApp\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAABCAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Program.cs",
+              "ToolTip": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Web\\Program.cs",
+              "RelativeToolTip": "src\\Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T04:00:07.276Z",
+              "WhenOpened": "2025-12-19T07:12:30.878Z",
               "EditorCaption": ""
             }
           ]
