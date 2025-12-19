@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "ApplicationCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ApplicationCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApplicationCore.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "ApplicationCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ApplicationCore/1.0.0": {
+      "type": "project",
+      "path": "../ApplicationCore/ApplicationCore.csproj",
+      "msbuildProject": "../ApplicationCore/ApplicationCore.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Database/Infrastructure.csproj",
+      "msbuildProject": "../Database/Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "ApplicationCore >= 1.0.0",
+      "Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nguye\\.nuget\\packages\\": {},
@@ -14,9 +52,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\project-1\\ECommerceWebApp\\ECommerceWebApp\\ECommerceWebApp.csproj",
-      "projectName": "ECommerceWebApp",
-      "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\ECommerceWebApp\\ECommerceWebApp.csproj",
+      "projectUniqueName": "E:\\Project\\project-1\\ECommerceWebApp\\ECommerceWebApp\\Web.csproj",
+      "projectName": "Web",
+      "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\ECommerceWebApp\\Web.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
       "outputPath": "E:\\Project\\project-1\\ECommerceWebApp\\ECommerceWebApp\\obj\\",
       "projectStyle": "PackageReference",
@@ -38,7 +76,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Project\\project-1\\ECommerceWebApp\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\ApplicationCore\\ApplicationCore.csproj"
+            },
+            "E:\\Project\\project-1\\ECommerceWebApp\\Database\\Infrastructure.csproj": {
+              "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\Database\\Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
