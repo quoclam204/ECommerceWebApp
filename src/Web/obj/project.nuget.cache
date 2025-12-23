@@ -1,20 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kMt7Mo4+LgU=",
-  "success": false,
+  "dgSpecHash": "IpiVRJAWrWk=",
+  "success": true,
   "projectFilePath": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Web\\Web.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'E:\\Project\\project-1\\ECommerceWebApp\\src\\Database\\Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
-      "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Web\\Web.csproj",
-      "filePath": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Web\\Web.csproj",
-      "libraryId": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Database\\Infrastructure.csproj",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -42,7 +42,6 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "ApplicationCore >= 1.0.0",
-      "E:\\Project\\project-1\\ECommerceWebApp\\src\\Database\\Infrastructure.csproj",
       "Infrastructure >= 1.0.0"
     ]
   },
@@ -80,9 +79,6 @@
           "projectReferences": {
             "E:\\Project\\project-1\\ECommerceWebApp\\src\\ApplicationCore\\ApplicationCore.csproj": {
               "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\src\\ApplicationCore\\ApplicationCore.csproj"
-            },
-            "E:\\Project\\project-1\\ECommerceWebApp\\src\\Database\\Infrastructure.csproj": {
-              "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Database\\Infrastructure.csproj"
             },
             "E:\\Project\\project-1\\ECommerceWebApp\\src\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Infrastructure\\Infrastructure.csproj"
@@ -127,16 +123,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'E:\\Project\\project-1\\ECommerceWebApp\\src\\Database\\Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "E:\\Project\\project-1\\ECommerceWebApp\\src\\Database\\Infrastructure.csproj",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  }
 }
